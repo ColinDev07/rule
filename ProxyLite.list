@@ -2,12 +2,11 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
-DOMAIN-SUFFIX,app.warp.dev
-
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
-DOMAIN-SUFFIX,figma
+DOMAIN-KEYWORD,figma
+DOMAIN-KEYWORD,warp
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
