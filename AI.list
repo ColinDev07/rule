@@ -5,6 +5,7 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
 DOMAIN-KEYWORD,codeium
+DOMAIN-KEYWORD,lobechat
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
