@@ -12,6 +12,7 @@ DOMAIN-KEYWORD,cursor
 DOMAIN-KEYWORD,deepseek
 
 # 域名后缀匹配
+DOMAIN-SUFFIX,api.deepseek.com
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
