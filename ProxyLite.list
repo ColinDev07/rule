@@ -10,6 +10,7 @@ DOMAIN-KEYWORD,figma
 DOMAIN-KEYWORD,warp
 DOMAIN-KEYWORD,slack
 DOMAIN-KEYWORD,sillytavern
+DOMAIN-KEYWORD,docker-images
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
