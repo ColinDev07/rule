@@ -11,6 +11,7 @@ DOMAIN-KEYWORD,warp
 DOMAIN-KEYWORD,slack
 DOMAIN-KEYWORD,sillytavern
 DOMAIN-KEYWORD,docker-images
+DOMAIN-KEYWORD,cloudflarestorage
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
