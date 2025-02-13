@@ -13,6 +13,7 @@ DOMAIN-KEYWORD,sillytavern
 DOMAIN-KEYWORD,docker-images
 DOMAIN-KEYWORD,cloudflarestorage
 DOMAIN-KEYWORD,clickup
+DOMAIN-KEYWORD,gmail
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
